@@ -1,6 +1,7 @@
-# pythonProject2
-CNN_Image_Classification
+# pythonProject
+#### CNN_Image_Classification
 
-基于卷积神经网络的图片分类模型
-附代码和数据
-star
+Image classification model based on Conv neural network
+
+Dataset is avaliable
+#### please add stars if you find codes useful!
